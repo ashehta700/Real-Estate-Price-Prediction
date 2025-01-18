@@ -74,13 +74,12 @@ This project aims to build an AI-driven application to predict real estate price
 
 
 #### Instalation Plan:
-1.I use a streamlit technology to Run the scrapping page from sites like (Aqar - aqaryamasr - smsarko ,etc .. )
+1. I use a streamlit technology to Run the scrapping page from sites like (Aqar - aqaryamasr - smsarko ,etc .. )
 2. To use this app for scrap and collect the data just go to the "directory realstate pricing detection" and run the app with command "streamlit run app.py"
 3. Enjoy with the smoothy userinterface that can collect the data with specific website you choice and then extract the data > > 
 4. Then this data is loaded from a model and training on it and then get the location for this data and get the distance with GIS layers like (ATM's - Hospitals - Roads , etc .. )
 5. Use Leaflet.js to visualize apartment locations and distances to utilities.
-6. run the smoothy app with userfirendly that can predict the price of new house from user 
-that the user can enter the location of his appartment 
+6. run the smoothy app with userfirendly that can predict the price of new house from user that the user can enter the location of his appartment 
 7. The app can get him the distance away the main layers 
 8. the app get the price fro rent and sale the appartment depend on the training 
 9.To Run this app just go to the directory "house pricing app" and then run the command "streamlit run app.py" and Enjoy 
